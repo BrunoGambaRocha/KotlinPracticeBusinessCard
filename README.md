@@ -1,4 +1,4 @@
-# Kotlin Practise Business Card
+# Kotlin Practice Business Card
 
 <img src="screenshot.png"/>
 
